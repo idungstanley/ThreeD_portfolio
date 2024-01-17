@@ -212,6 +212,10 @@ const projects = [
         color: 'green-text-gradient',
       },
       {
+        name: 'redux toolkit query',
+        color: 'blue-text-gradient',
+      },
+      {
         name: 'tailwind',
         color: 'pink-text-gradient',
       },
