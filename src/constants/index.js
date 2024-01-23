@@ -183,11 +183,11 @@ const projects = [
       'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
     tags: [
       {
-        name: 'react',
+        name: 'Next',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'Typescript',
         color: 'green-text-gradient',
       },
       {
@@ -196,7 +196,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/idungstanley/car_showcase',
   },
   {
     name: 'AI Article Summarizer',
